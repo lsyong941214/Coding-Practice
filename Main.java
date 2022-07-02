@@ -37,7 +37,7 @@ public class Main {
             }else {
                 answer[i] = sum[end];
             }
-        }
+        } 
 
         for(int k : answer){
             System.out.println(k);
