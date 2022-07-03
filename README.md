@@ -1,5 +1,5 @@
 # Coding-Practice
 # LeeSangYong
-# ParkSunJeong
+# ParkSunJung
 # LimSeungBae
 
