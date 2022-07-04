@@ -1,4 +1,3 @@
-# Coding-Practice
-# Coding-Practice
-# Coding-Practice
-# Coding-Practice
+# 넌 뭐든 할 수 있어
+# Just Do it
+# YESSSSSSSSSSSSSSS
