@@ -9,6 +9,7 @@ input = sys.stdin.readline
 n, m = map(int, input().split())
 arr = list(map(int, input().split()))
 
+# 퀵소트 구현
 def QuickSort(arr, start, end):
     pivot = start
     left, right = start + 1, end
@@ -26,6 +27,7 @@ def QuickSort(arr, start, end):
     QuickSort(arr, start, right-1)
     QuickSort(arr, right+1, end)
 
+# 파이썬의 장점을 이용한 간단한 퀵 소트
 def QuickSortPy(arr):
     if len(arr) <= 1:
         return arr
