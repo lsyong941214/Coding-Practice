@@ -1,5 +1,5 @@
-# if target in numbers 를 이용하면 시간초과
-# binary search를 사용해야한다.
+# if target in numbers 를 이용하면 O(nlogn + n^2)으로 시간초과
+# binary search를 사용해서 O(nlogn + nlogm)으로 문제풀이
 import sys
 input = sys.stdin.readline
 
