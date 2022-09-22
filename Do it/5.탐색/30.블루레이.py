@@ -33,7 +33,6 @@ def binary_search(left, right):
     
     mid = (left+right) // 2
     blueray_cnt = get_blueray_cnt(mid)
-    print(mid, blueray_cnt)
 
     # 왼쪽 탐색
     if blueray_cnt <= m :
