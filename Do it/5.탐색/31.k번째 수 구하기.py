@@ -29,10 +29,12 @@ while(start < end):
 
     if k <= res:
         end = mid
+        print(start, end, mid)
     else :
+        print(start, end, mid)
         start = mid+1
 
-print(start)
+
 
 '''
 3
